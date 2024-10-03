@@ -156,6 +156,4 @@ Scans for suspicious cron jobs
 Prints all root cron jobs
 Fixs sources.list
 Clears bash history
-Fixes firefox settings
-```
--CyberKiloCharlie
+Fixes firefox 
