@@ -1,6 +1,5 @@
-# 2022 CYPAT SCRIPTS
-### ONLY FOR USE BY CYPAT TEAM 15-4209
-### CC BY-NC-ND
+# 2024 CYPAT SCRIPTS
+### ONLY FOR USE BY ME, MYSELF, & I
 
 The .bat files are batch files for securing the windows and windows server images in the CyberPatriot
 competition. They automatically secure many parts of windows and windows server images and will prompt for you to do 
@@ -10,14 +9,6 @@ The .sh files are bash files for Ubuntu images in the CyberPatriot competition. 
 of the Ubuntu image and will prompt for you to do some things manually. 
 
 There are .txt versions of all files for editing/trouble-shooting.
-
-These files scripts are only allowed to be used in the CyPat competition by CyPat team 15-4209 in my grade 9 year (2022) and can be used beyond that by only
-CyberKiloCharlie or by any of CyberKiloCharlie's future teams. These scripts can be used for securing your own systems, so long as it is not a system in the CyPat
-competition. You can distribute the scripts so 
-long as I (CyberKiloCharlie) am attributed as the author, and the distribution is not commercial in any form. Any use in the CyPat competition other than by team 
-15-4209, by CyberKiloCharlie, or by any of CyberKiloCharlie's future teams is not allowed under section 3011-1-d and 3011.4.5.b of the CyPat XV national youth cyber
-defense competition rule book and is punishable by disqualification from the CyPat tournament. 
-
 # How to run scripts;
 ### Linux (Ubuntu);
 ```
@@ -27,18 +18,8 @@ cd cmdtools
 ls
 sudo sh [ENTER SCRIPT NAME HERE].sh
 ```
-### Windows;
-```
-Go to https://github.com/cyberkilocharlie/cmdtools
-Download Files
-Find file in File Explorer (Downloads)
-Unzip File
-Enter Unziped File
-Find the .bat file you want to run 
-Right click that file
-Click Run as Administrator
-```
-# Quick overview of the scripts;
+
+## Quick overview of the scripts;
 (All operations are in order)
 ### WINDOWS BATCH 1;
 ```
